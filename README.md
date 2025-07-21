@@ -1,2 +1,2 @@
 # MyGodot
-Repository for source code, templates etc.
+Repository for my source codes, templates and scripts of game dev stack.
