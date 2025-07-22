@@ -8,3 +8,11 @@ Last updated : 21 July 2025
 3. Weapon manager with complete 3 weapons with ammo manager integrated for each of the weapons.
 4. Simple training area.
 5. Primitive ammo count label for each of the weapon.
+
+## 3D FPS Template
+Last updated : 22 July 2025
+1. Fully made Player control and mouse aim.
+2. Simple, following camera.
+3. Weapon manager with complete rifle weapon with ammo manager integrated for the weapons. Can be extensible for adding more weapon 
+4. Simple training area, with lighting.
+5. Primitive ammo count label for each of the weapon. But label is not present.
